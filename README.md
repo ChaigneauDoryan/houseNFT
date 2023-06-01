@@ -28,7 +28,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - npm install -g truffle
 
 ## Installer Ganache
-- npm install ganache-cli
+- npm install -g ganache-cli
 
 ## Configuration Truffle (port)
 - truffle.config.js
