@@ -11,6 +11,8 @@
 
 > House NFT
 
+![image](https://github.com/ChaigneauDoryan/houseNFT/assets/47042254/dc65ca89-38a0-4aaa-aa28-1bc6681fa5a0)
+
 ### 🏠 [Homepage](https://github.com/ChaigneauDoryan/houseNFT#readme)
 
 # Getting Started with Create React App
@@ -18,6 +20,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 # Setup
+
+## Installer les dépendances
+- npm install
 
 ## Installer Truffle
 - npm install -g truffle
@@ -33,13 +38,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - Dans le terminal run ganache-cli
 - Récupérer la première clé privée
 - L'ajouter dans le réseau Ganache de Metamask
-- Connecter Metamask avec ce compte
 
 ## Scripts à exécuter
 - Dans le terminal run ganache-cli
 - Ouvrir un nouveau terminal
 - Lancer truffle migrate --reset
 - Lancer l'application : npm start (http://localhost:3000/ par défaut)
+- Connecter Metamask avec ce compte
 
 ## Author
 
